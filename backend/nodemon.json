@@ -1,0 +1,5 @@
+{
+  "env":  {
+        "MONGO_URI":"mongodb+srv://yashraj:YwME7FYiD3arJsRn@CloudBookcluster.xfndemb.mongodb.net/?retryWrites=true&w=majority"
+    }
+}
